@@ -1,0 +1,54 @@
+/* Universal */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Titulos */
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: floralwhite;
+}
+
+/* h3, */
+/* h4 { */
+    /* font-weight: bold; */
+/* } */
+
+/* Enlaces */
+a {
+    text-decoration: none;
+}
+
+/* Fondo página */
+.background {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Carousel */
+.carousel-inner img {
+    max-height: 500px;
+}
+
+.carousel-inner {
+    max-height: 500px;
+}
+
+/* Alineación texto */
+.text-justify {
+    text-align: justify;
+}
+
+/* Video e imagen */
+.video {
+    max-width: 500px;
+    height: 300px;
+}
+
+.imagen {
+    max-width: 450px;
+}
